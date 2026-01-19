@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**busisiwe-r-pswarayi/busisiwe-r-pswarayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Busisiwe Ruvenko Pswarayi.  
+You can call me Ruveneko.
+I’m a Computer Science student based in South Africa with a strong interest in data analytics and supply chain technology.
 
-Here are some ideas to get you started:
+I’m particularly interested in how data, systems, and software are used to improve operational efficiency, decision-making, and logistics at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus:
+- Python & data analysis
+- Supply chain analytics projects
+- Building a strong technical portfolio with real-world applications
+
+🔗 LinkedIn: https://www.linkedin.com/in/busisiwe-pswarayi-320852313/
