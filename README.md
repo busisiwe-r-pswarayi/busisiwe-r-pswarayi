@@ -11,4 +11,8 @@ I’m particularly interested in how data, systems, and software are used to imp
 - Supply chain analytics projects
 - Building a strong technical portfolio with real-world applications
 
+### Currently working on:
+- Python-based data and automation projects
+- Expanding my GitHub portfolio for internships and freelance opportunities
+
 🔗 LinkedIn: https://www.linkedin.com/in/busisiwe-pswarayi-320852313/
